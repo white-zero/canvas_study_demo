@@ -1,0 +1,28 @@
+.demo {
+    height: 600px;
+    position: relative;
+}
+h4 {
+    text-align: center;
+    font-size: 110%;
+}
+ball {
+    width: 100px; height: 100px; border-radius: 100px;
+    position: absolute; left: 50%; top: 500px;
+    margin-left: -50px;
+    background-color: #34538b;
+    background-image: -webkit-radial-gradient(100px 100px at 50px 20px, #a0b3d6, #34538b);
+    background-image:    -moz-radial-gradient(100px 100px at 50px 20px, #a0b3d6, #34538b);
+    background-image:         radial-gradient(100px 100px at 50px 20px, #a0b3d6, #34538b);
+    cursor: move;
+    z-index: 1;
+}
+shadow {
+    position: absolute;
+    width: 100px; height: 30px;
+    position: absolute; left: 50%; bottom: 5px;
+    margin-left: -50px;
+    background-image: -webkit-radial-gradient(ellipse closest-side, rgba(0,0,0,.75), rgba(0,0,0,0));
+    background-image:    -moz-radial-gradient(ellipse closest-side, rgba(0,0,0,.75), rgba(0,0,0,0));
+    background-image:         radial-gradient(ellipse closest-side, rgba(0,0,0,.75), rgba(0,0,0,0));
+}
