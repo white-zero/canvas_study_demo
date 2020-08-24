@@ -8,4 +8,4 @@
     - 星星垂直方向实际上是个伪随机，越靠近地球，星星越密集，而越往上，越稀疏。其算法如下：
 - 2.圆弧轨迹  
     - 套用高中时候学的圆方程式  
-    ![]()
+    ![](https://github.com/white-zero/canvas_study_demo/blob/master/src/images/yuanhuguiji.png)
