@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3ea86460-7d76-49b8-b898-83fc6c4a405f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_03imagestilt.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo_03imagestilt.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598080553074</updated>
-      <workItem from="1598080556191" duration="13524000" />
+      <workItem from="1598080556191" duration="14906000" />
     </task>
     <servers />
   </component>
@@ -76,5 +76,9 @@
       <screen x="-445" y="-1417" width="2560" height="1417" />
     </state>
     <state x="504" y="-1065" key="#HTML/-445.-1417.2560.1417/0.23.1680.977@-445.-1417.2560.1417" timestamp="1598085956959" />
+    <state x="-1225" y="-281" width="667" height="729" key="find.popup" timestamp="1598489896411">
+      <screen x="-1920" y="-406" width="1920" height="1057" />
+    </state>
+    <state x="-1225" y="-281" width="667" height="729" key="find.popup/0.23.1680.975/-1920.-406.1920.1057@-1920.-406.1920.1057" timestamp="1598489896411" />
   </component>
 </project>
